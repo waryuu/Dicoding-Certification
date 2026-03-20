@@ -24,11 +24,3 @@ Repositori ini berisi kumpulan sertifikat dan proyek tugas akhir (submission) ya
 | 16 | Belajar Dasar AI | _Lulus_ ✅ | [click here](https://www.dicoding.com/certificates/QLZ93K47DZ5D)|
 | 17 | Belajar Dasar-Dasar DevOps | _Lulus_ ✅ | [click here](https://www.dicoding.com/certificates/L4PQ58W2OZO1)|
 | 18 | Architecting on AWS (Membangun Arsitektur Cloud di AWS) | _Lulus_ ✅ | [click here](https://www.dicoding.com/certificates/MRZMKKEMKPYQ)|
-
-
-
-## Fokus Saat Ini
-Saat ini saya sedang mendalami **Machine Learning** dan **Data Science**, dengan fokus pada pengembangan fitur untuk aplikasi berbasis data (seperti fitur tambah/edit buku yang sedang saya kembangkan).
-
----
-*Last updated: Maret 2026*
