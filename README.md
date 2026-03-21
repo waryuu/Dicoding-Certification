@@ -7,7 +7,7 @@ Repositori ini berisi kumpulan sertifikat dan proyek tugas akhir (submission) ya
 | **No.** | **Course** | **Status** | **Certificate Link** | **Project** |
 | --- | --- | --- | --- | --- |
 | 1 | Belajar Membuat Front-End Web untuk Pemula | ✅ | [click here](https://www.dicoding.com/certificates/81P2O71OYZOY)| [Membangun Bookshelf App](https://github.com/waryuu/Dicoding-Membangun-Bookshelf-App) |
-| 2 | Belajar Dasar Pemrograman JavaScript | ✅ | [click here](https://www.dicoding.com/certificates/KEXLQ9J1WPG2)| [Submission: Evaluasi Pembelajaran Akhir](https://github.com/waryuu/Dicoding-BackEnd-Final-Assesment/tree/master/final-assessment) |
+| 2 | Belajar Dasar Pemrograman JavaScript | ✅ | [click here](https://www.dicoding.com/certificates/KEXLQ9J1WPG2)| [Submission: Evaluasi Pembelajaran Akhir](https://github.com/waryuu/Bookshelf-API-Backend)/tree/javascript-assessment) |
 | 3 | Belajar Dasar Pemrograman Web | ✅ | [click here](https://www.dicoding.com/certificates/N9ZON5DL6XG5)| [Submission: Tugas Akhir Membuat Website](https://github.com/waryuu/Dicoding-Tugas-Akhir-Membuat-Website) |
 | 4 | Belajar Fundamental Pemrosesan Data | ✅ | [click here](https://www.dicoding.com/certificates/53XE1JDDKZRN)| [Proyek Akhir: Membangun ETL Pipeline Sederhana](https://github.com/waryuu/Dicoding-Membangun-ETL-Pipeline-Project/) |
 | 5 | Belajar Machine Learning untuk Pemula | ✅ | [click here](https://www.dicoding.com/certificates/1RXYWM90QZVM)| [Membangun Proyek Machine Learning](https://github.com/waryuu/Dicoding-Machine-Learning-Project) |
@@ -16,7 +16,7 @@ Repositori ini berisi kumpulan sertifikat dan proyek tugas akhir (submission) ya
 | 8 | Belajar Penerapan Data Science dengan Microsoft Fabric | ✅ | [click here](https://www.dicoding.com/certificates/QLZ99D9D7Z5D)| - |
 | 9 | Prompt Engineering untuk Software Developer | ✅ | [click here](https://www.dicoding.com/certificates/JLX15ON45Z72)| - |
 | 10 | Introduction to Financial Literacy | ✅ | [click here](https://www.dicoding.com/certificates/07Z6JOM1JXQR)| - |
-| 11 | Belajar Back-End Pemula dengan JavaScript | ✅ | [click here](https://www.dicoding.com/certificates/MRZM65EQKPYQ)| [Submission Bookshelf API](https://github.com/waryuu/Dicoding-BackEnd-Final-Assesment/tree/master/Bookshelf-API) |
+| 11 | Belajar Back-End Pemula dengan JavaScript | ✅ | [click here](https://www.dicoding.com/certificates/MRZM65EQKPYQ)| [Submission Bookshelf API](https://github.com/waryuu/Bookshelf-API-Backend) |
 | 12 | Belajar Dasar Cloud dan Gen AI di AWS | ✅ | [click here](https://www.dicoding.com/certificates/0LZ0RWDE3P65)| - |
 | 13 | Menjadi Linux System Administrator | ✅ | [click here](https://www.dicoding.com/certificates/98XWEV4GWXM3)| Proyek Shell Scripting / Proyek Konfigurasi SSH Server |
 | 14 | Belajar Implementasi CI/CD | ✅ | [click here](https://www.dicoding.com/certificates/QLZ93K1WMZ5D)| Proyek Membangun CI Pipeline dengan Jenkins / Proyek Membangun CI/CD Pipeline dengan Jenkins |
