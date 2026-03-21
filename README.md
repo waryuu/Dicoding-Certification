@@ -8,7 +8,7 @@ Repositori ini berisi kumpulan sertifikat dan proyek tugas akhir (submission) ya
 | --- | --- | --- | --- | --- |
 | 1 | Belajar Membuat Front-End Web untuk Pemula | ✅ | [click here](https://www.dicoding.com/certificates/81P2O71OYZOY)| [Membangun Bookshelf App](https://github.com/waryuu/Bookshelf-App/tree/dicoding-bookshelf-app) |
 | 2 | Belajar Dasar Pemrograman JavaScript | ✅ | [click here](https://www.dicoding.com/certificates/KEXLQ9J1WPG2)| [Submission: Evaluasi Pembelajaran Akhir](https://github.com/waryuu/Bookshelf-API-Backend/tree/javascript-assessment) |
-| 3 | Belajar Dasar Pemrograman Web | ✅ | [click here](https://www.dicoding.com/certificates/N9ZON5DL6XG5)| [Submission: Tugas Akhir Membuat Website](https://github.com/waryuu/Dicoding-Tugas-Akhir-Membuat-Website) |
+| 3 | Belajar Dasar Pemrograman Web | ✅ | [click here](https://www.dicoding.com/certificates/N9ZON5DL6XG5)| [Submission: Tugas Akhir Membuat Website](https://github.com/waryuu/HTML-CSS-Web) |
 | 4 | Belajar Fundamental Pemrosesan Data | ✅ | [click here](https://www.dicoding.com/certificates/53XE1JDDKZRN)| [Proyek Akhir: Membangun ETL Pipeline Sederhana](https://github.com/waryuu/ETL-Pipeline-Project) |
 | 5 | Belajar Machine Learning untuk Pemula | ✅ | [click here](https://www.dicoding.com/certificates/1RXYWM90QZVM)| [Membangun Proyek Machine Learning](https://github.com/waryuu/Dicoding-Machine-Learning-Project) |
 | 6 | Memulai Pemrograman dengan Python | ✅ | [click here](https://www.dicoding.com/certificates/1OP8R6EOLZQK)| - |
